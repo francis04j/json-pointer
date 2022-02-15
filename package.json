@@ -1,16 +1,16 @@
 {
-  "name": "json-pointer",
-  "description": "Some utilities for JSON pointers described by RFC 6901",
-  "version": "0.6.1",
-  "author": "Manuel Stofer <manuel@smallpdf.com>",
+  "name": "json-pointer-community",
+  "description": "Forkd from Some utilities for JSON pointers described by RFC 6901",
+  "version": "0.7.0",
+  "author": "Francis Adediran <francis@francisade.com>, Manuel Stofer <manuel@smallpdf.com>",
   "license": "MIT",
   "dependencies": {
     "foreach": "^2.0.4"
   },
-  "homepage": "https://github.com/manuelstofer/json-pointer",
+  "homepage": "https://github.com/francis04j/json-pointer",
   "repository": {
     "type": "git",
-    "url": "git://github.com/manuelstofer/json-pointer.git"
+    "url": "git://github.com/francis04j/json-pointer.git"
   },
   "devDependencies": {
     "chai": "^1.9.1",
